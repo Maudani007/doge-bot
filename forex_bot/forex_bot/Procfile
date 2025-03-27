@@ -1,2 +1,2 @@
-worker: python bot_forex.py
+worker: python3 bot_forex.py
 
