@@ -1,4 +1,4 @@
 python-binance
 pandas
 python-dotenv
-
+ta
